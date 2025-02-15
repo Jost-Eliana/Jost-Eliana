@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jost-Eliana
-- 👀 I’m interested in learning new technologies and becoming fullstack
-- 🌱 I’m currently learning Cypress and English
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently learning English
 - 💞️ I’m looking to collaborate on IT proyects with growth opportunities
 - 📫 How to reach me: Elianajost@outlook.com
 
